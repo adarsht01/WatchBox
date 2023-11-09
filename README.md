@@ -1,4 +1,4 @@
-https://watchbox-32cscsttn-adarsh-thakurs-projects.vercel.app/ (live app link)
+https://watchbox-ctebk9vds-adarsh-thakurs-projects.vercel.app (live app link)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
